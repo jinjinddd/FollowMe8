@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ksj25/AndroidStudioProjects/SD/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Users/ksj25/AndroidStudioProjects/SD/app/src/main/res/drawable/ic_baseline_https_24.xml" value="0.1" />
+        <entry key="..\:/Users/ksj25/AndroidStudioProjects/SD/app/src/main/res/drawable/ic_baseline_mail_24.xml" value="0.1" />
+        <entry key="..\:/Users/ksj25/AndroidStudioProjects/SD/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/ksj25/AndroidStudioProjects/SD/app/src/main/res/layout/activity_login.xml" value="0.22871376811594202" />
+        <entry key="..\:/Users/ksj25/AndroidStudioProjects/SD/app/src/main/res/layout/activity_main.xml" value="0.2086956590966153" />
+        <entry key="..\:/Users/ksj25/AndroidStudioProjects/SD/app/src/main/res/layout/activity_register.xml" value="0.24104234527687296" />
+        <entry key="..\:/Users/ksj25/AndroidStudioProjects/SD/app/src/main/res/layout/notice.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/drawable/button.xml" value="0.143" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/drawable/ic_baseline_comment_24.xml" value="0.143" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/drawable/ic_baseline_https_24.xml" value="0.143" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/drawable/ic_baseline_mail_24.xml" value="0.143" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.143" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.143" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/layout/activity_register.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/layout/fragment_course.xml" value="0.2" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/layout/fragment_memo.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/layout/fragment_schedule.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/layout/fragment_statistics.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/FollowMe/app/src/main/res/layout/notice.xml" value="0.25364583333333335" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/background.xml" value="0.109" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/bottonshape_blue.xml" value="0.1" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/button.xml" value="0.168" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/cell_shape.xml" value="0.1" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/ic_add.xml" value="0.109" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/ic_close.xml" value="0.109" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/ic_save.xml" value="0.109" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/loginback.xml" value="0.1" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/loginbutton.xml" value="0.1" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/loginbutton2.xml" value="0.262" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/rect.xml" value="0.133" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/switch_thumb.xml" value="0.1" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/switch_thumb_selector.xml" value="0.1" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/switch_track_off.xml" value="0.1" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/switch_track_on.xml" value="0.1" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/switch_track_selector.xml" value="0.1" />
+        <entry key="..\:/note/gitgit/app/src/main/res/drawable/titlebar_underline.xml" value="0.1" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/activity_add_course.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/activity_add_note.xml" value="0.18365218000502148" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/activity_course.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/activity_login.xml" value="0.2086956590966153" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/activity_main2.xml" value="0.12053789731051345" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/activity_memo.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/activity_register.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/addcoursedialog.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/course.xml" value="0.2754782700075322" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/dialog.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/fragment_course.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/fragment_home.xml" value="0.2754782700075322" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/fragment_memo.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/fragment_schedule.xml" value="0.2086956590966153" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/fragment_statistics.xml" value="0.20380434782608695" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/note_item.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/notice.xml" value="0.192481884057971" />
+        <entry key="..\:/note/gitgit/app/src/main/res/layout/time_box.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/menu/add_note_menu.xml" value="0.23703703703703705" />
+        <entry key="..\:/note/gitgit/app/src/main/res/menu/addcoursemenu.xml" value="0.25677083333333334" />
+        <entry key="..\:/note/gitgit/app/src/main/res/menu/main_menu.xml" value="0.2754782700075322" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

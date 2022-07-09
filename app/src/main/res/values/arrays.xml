@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>컴퓨터공학과</item>
+        <item>전자공학부(전자공학전공)</item>
+        <item>전자공학부(지능IoT전공)</item>
+        <item>정보통신공학부(정보통신공학전공)</item>
+        <item>정보통신공학부(정보보안전공)</item>
+        <item>정보통신공학부(임베디드보안전공)</item>
+    </string-array>
+    <string-array name="year">
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+    </string-array>
+    <string-array name="term">
+        <item>1학기</item>
+        <item>하계방학</item>
+        <item>2학기</item>
+        <item>동계방학</item>
+    </string-array>
+    <string-array name="grade">
+        <item>1학년</item>
+        <item>2학년</item>
+        <item>3학년</item>
+        <item>4학년</item>
+    </string-array>
+</resources>

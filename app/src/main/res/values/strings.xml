@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SD</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chosun_site1">조선대 \n학사공지</string>
+    <string name="chosun_site2">SW중심\n대학사업단</string>
+    <string name="chosun_site3">학생 통합\n지원시스템\n (cu+)</string>
+
+    <string-array name="header_title">
+        <item></item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+    </string-array>
+
+</resources>
